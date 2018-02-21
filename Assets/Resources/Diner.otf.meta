@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e4e81cee1a6ef0841a5710721fc5e00e
+timeCreated: 1496434314
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Diner
+  fontNames:
+  - Diner
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
